@@ -1,6 +1,6 @@
 # Pytorch-tutorials
 ## Some tutorials about Pytorch
-#### Only for my CV Group 
+#### Share for my CV Group 
 ###### ：)
 
 
